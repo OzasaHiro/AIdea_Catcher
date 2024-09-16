@@ -124,13 +124,22 @@ def main():
                                 You are an excellent AI painter. You have a very good ability to describe picturesque scenery from sentences.
                                 '''},
                                 {"role": "user", "content": f'''
-                                Please summarize the following text as a prompt for image generation. 
+                                Please summarize the following text as a prompt for image generation like the output sample. 
                                 Please try to be as specific as possible when generating images, such as by describing the people or the overall scene.
                                 text: {press_release}
-                                Please output onlythe prompt for image generation.'''
+                                Please output onlythe prompt for image generation.
+                                
+                                Output Sample:
+                                Hiroaki, a confident Asian man in his 50s wearing a sleek business suit, standing at the front of a modern high-tech conference room. 
+                                He's gesturing towards a large holographic display showing AI algorithms and data visualizations. 
+                                Behind him, a diverse team of professionals are seated at a curved table, engaged in the presentation. 
+                                The room has floor-to-ceiling windows with a view of a futuristic cityscape. 
+                                The scene conveys leadership, innovation, and cutting-edge technology. '''
                                 }
                             ]
                         ).choices[0].message.content
+
+                        image_description = summary_prompt
 
                         # Add 'Photorealistic quality' to the end of summary_prompt
                         summary_prompt += " Photorealistic quality."
@@ -158,7 +167,7 @@ def main():
                             generated_image = Image.open(io.BytesIO(response.content))
                             resized_image = generated_image.resize((512, 512))
                             st.image(resized_image, 
-                                     #caption="Generated image", 
+                                     caption=image_description, 
                                      use_column_width=False)
                         else:
                             st.error("Failed to generate image")
