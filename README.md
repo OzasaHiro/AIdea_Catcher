@@ -33,7 +33,7 @@
 6. Presentation/Demonstration
    To be discussed:
    - Aim to showcase features from 1.(1) to 2.(5) including gamification
-   - Consider adding visual elements, animations, or voice, etc. for impact
+   - Consider adding modern UI/UX, visual elements, animations, or voice/sound, etc. for impact
 
 7. Additional Notes
    Last year's hackathon:
