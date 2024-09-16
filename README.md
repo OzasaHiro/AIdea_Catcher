@@ -34,6 +34,7 @@
    To be discussed:
    - Aim to showcase features from 1.(1) to 2.(5) including gamification
    - Consider adding modern UI/UX, visual elements, animations, or voice/sound, etc. for impact
+   - Just Idea: Make it easy for anyone to use, with voice input and simple button operation, multilingual compatible, etc.
 
 7. Additional Notes
    Last year's hackathon:
