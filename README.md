@@ -21,7 +21,7 @@
 4. Judges
    Not announced yet
 
-5. Submitted Theme: AIdea Catcher (please see 'AIdea_Chatcher_Structure.md'.)
+5. Submitted Theme: AIdea Catcher (please see [AIdea_Chatcher_Structure.md](AIdea_Chatcher_Structure.md).)
    - AI-powered platform to help individuals discover and achieve their full potential
    - Addresses issues like limited awareness of opportunities, societal barriers, lack of guidance, and insufficient support systems
    - Features: AI Counselor, AI-optimized Mandala Chart system, personalized roadmap creator, gamified daily action planning
