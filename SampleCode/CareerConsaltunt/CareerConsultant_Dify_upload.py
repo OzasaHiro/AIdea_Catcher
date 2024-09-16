@@ -7,7 +7,7 @@ from docx import Document
 from sseclient import SSEClient
 from PIL import Image
 import io
-from generate_pic import send_async_generation_request, send_generation_request
+from generate_pic_upload import send_async_generation_request, send_generation_request
 from openai import OpenAI
 
 # Load settings from environment variables
