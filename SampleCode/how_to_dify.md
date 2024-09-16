@@ -7,4 +7,6 @@ https://docs.dify.ai/getting-started/install-self-hosted/local-source-code
 
 Then, Export [AIdea_Chatcher_dify.yml](AIdea_Chatcher_dify.yml)
 
+You might need set some API keys to use LLM, such as OpenAI, Anthropic, Google, Groq, etc.
+
 ![Sample_Image](Dify_Example.png)
