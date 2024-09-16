@@ -7,4 +7,4 @@ https://docs.dify.ai/getting-started/install-self-hosted/local-source-code
 
 Then, Export AIdea Chatcher_dify.yml
 
-![Sample_Image]('Dify_Example.png')
+![Sample_Image](Dify_Example.png)
