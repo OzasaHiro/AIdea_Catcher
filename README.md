@@ -1,4 +1,4 @@
-# AIdea_Catcher
+# TED AI Hackathon 2024 -AIdea_Catcher-
 
 ref link:<br>
 https://tedai-sanfrancisco.ted.com/hackathon/ <br>
