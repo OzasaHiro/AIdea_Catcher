@@ -32,4 +32,4 @@ This integration enables the comprehensive functionality of AIdea Catcher, creat
  <br>
 3. Matching AI-Agent <br>
  (1) Feature to introduce friends from around the world who are pursuing similar dreams.<br>
- (2) Feature to introduce mentors or seniors who have pursued dreams from similar circumstances or have realized their dreams. (We might able to perplexity-api to search mentors by LinkedIn.) <br>
+ (2) Feature to introduce mentors or seniors who have pursued dreams from similar circumstances or have realized their dreams. (We might able to use [perplexity-api](https://docs.perplexity.ai/api-reference/chat-completions) to search mentors by LinkedIn.) <br>
