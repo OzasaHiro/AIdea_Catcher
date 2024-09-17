@@ -32,7 +32,7 @@
 
 6. Presentation/Demonstration
    To be discussed:
-   - Aim to showcase features from 1.(1) to 2.(5) of [AIdea_Chatcher_Structure.md](AIdea_Catcher_Structure.md), including gamification
+   - Aim to showcase features from 1.a to 2.d of [AIdea_Chatcher_Structure.md](AIdea_Catcher_Structure.md), including gamification
    - Consider adding modern UI/UX, visual elements, animations, or voice/sound, etc. for impact
    - Just Idea: Make it easy for anyone to use, with voice input and simple button operation, multilingual compatible, etc.
 
