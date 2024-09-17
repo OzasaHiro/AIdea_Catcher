@@ -28,8 +28,8 @@ This integration enables the comprehensive functionality of AIdea Catcher, creat
  (5) Gamification Feature <br>
      Gamify the activities. Activities are divided by difficulty levels, and points are earned. In the future, make it possible to redeem points for something. <br>
  (6) Progress Monitoring and Optimization Feature <br>
-     Monitor daily progress and analyze strengths and weaknesses in behavior. Review the realization plan, game difficulty levels, and points every week to optimize the plan according to each individual's characteristics. <br> <br>
+     Monitor daily progress and analyze strengths and weaknesses in behavior. Review the realization plan, game difficulty levels, and points every week to optimize the plan according to each individual's characteristics. <br> 
  <br>
 3. Matching AI-Agent <br>
- (1) Feature to introduce friends from around the world who are pursuing similar dreams.
- (2) Feature to introduce mentors or seniors who have pursued dreams from similar circumstances or have realized their dreams. <br>
+ (1) Feature to introduce friends from around the world who are pursuing similar dreams.<br>
+ (2) Feature to introduce mentors or seniors who have pursued dreams from similar circumstances or have realized their dreams. (We might able to perplexity-api to search mentors by LinkedIn.) <br>
