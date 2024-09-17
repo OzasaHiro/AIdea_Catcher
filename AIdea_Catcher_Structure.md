@@ -23,7 +23,7 @@ The Dream Support AI-Agent provides support for realizing the future vision prop
  c. Schedule Management Feature <br>
      Schedule daily activities (using Google Scheduler API, etc.). <br>
  d. Gamification Feature <br>
-     Gamify the activities. Activities are divided by difficulty levels, and points are earned. In the future, make it possible to redeem points for something. <br>
+     Gamify the activities. Activities are divided by difficulty levels, and points are earned. (In the future, make it possible to redeem points for something.) <br>
  e. Progress Monitoring and Optimization Feature <br>
      Monitor daily progress and analyze strengths and weaknesses in behavior. Review the realization plan, game difficulty levels, and points every week to optimize the plan according to each individual's characteristics. <br> 
  <br>
