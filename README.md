@@ -1,7 +1,7 @@
 # AIdea_Catcher
 
-ref link:
-https://tedai-sanfrancisco.ted.com/hackathon/
+ref link:<br>
+https://tedai-sanfrancisco.ted.com/hackathon/ <br>
 https://www.linkedin.com/pulse/top-5-reasons-join-tedai-hackathon-tedaisanfrancisco-mj5yc/?trackingId=6luKvt0WQxyWRCefpV6HQQ%3D%3D
 
 1. Schedule and Location
