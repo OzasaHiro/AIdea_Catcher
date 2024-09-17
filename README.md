@@ -13,7 +13,7 @@
    - User experience
    - Overall quality of the AI solution
    - Addressing SDGs (Sustainable Development Goals)
-   Note: Detailed rubric to be shared closer to the hackathon date
+
 
 3. Sponsors
    AWS, Google Cloud, PwC, GENLAB, Vectara, Foley, Stand Together Ventures Lab, AICamp, Arise
