@@ -1,8 +1,8 @@
 AIdea Catcher is composed of three main AI agents: <br>
  <br>
-1.Career Consultant AI-Agent <br>
-2.Dream Support AI-Agent <br>
-3.Matching AI-Agent <br>
+1. Career Consultant AI-Agent <br>
+2. Dream Support AI-Agent <br>
+3. Matching AI-Agent <br>
  <br>
 The Career Consultant AI-Agent proposes future visions that can maximize the client's strengths and experiences. <br>
 The Dream Support AI-Agent provides support for realizing the future vision proposed by the Career Consultant, such as creating roadmaps and scheduling. <br>
@@ -11,7 +11,7 @@ These three agents are integrated by a management system, which optimizes the ov
 This integration enables the comprehensive functionality of AIdea Catcher, creating a cohesive and effective platform for personal development and goal achievement. <br>
  <br>
  <br>
-1. Career Consultant AI-Agent ([Sample Code](https://github.com/OzasaHiro/AIdea_Catcher/tree/main/SampleCode/CareerConsultantAgent)) <br>
+1. Career Consultant AI-Agent ([Sample Code: ](https://github.com/OzasaHiro/AIdea_Catcher/tree/main/SampleCode/CareerConsultantAgent)) <br>
  (1) Analyze future dreams and resume content to devise a realization plan that maximizes one's talents. <br>
  (2) Help visualize the future concretely through articles or visions of the future where the realization plan has been achieved. <br>
  <br>
