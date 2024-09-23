@@ -5,8 +5,8 @@ https://tedai-sanfrancisco.ted.com/hackathon/ <br>
 https://www.linkedin.com/pulse/top-5-reasons-join-tedai-hackathon-tedaisanfrancisco-mj5yc/?trackingId=6luKvt0WQxyWRCefpV6HQQ%3D%3D
 
 1. Schedule and Location
-   - September 13: Application deadline
-   - September 20: Teams announced
+   - September 13 -> 20: Application deadline
+   - September 20 -> 27: Teams announced
    - October 19-20: Hackathon
    - Venue: Microsoft Reactor in San Francisco
 
